@@ -1,5 +1,5 @@
 {
-  "name": "@rizwan_ahmed/todos",
+  "name": "@rizwan_ahmed/todo",
   "version": "2.0.1",
   "description": "todos program",
   "main": "index.js",
@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@rizwan_ahmed/todo": "^2.0.1",
     "@types/chalk-animation": "^1.6.3",
     "chalk-animation": "^2.0.3",
     "inquirer": "^9.2.17"
