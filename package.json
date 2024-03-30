@@ -1,7 +1,7 @@
 {
-  "name": "todo",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@rizwan_ahmed/todo",
+  "version": "1.0.1",
+  "description": "todo program",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
